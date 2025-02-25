@@ -1,4 +1,6 @@
 import FAQPage from "./pages/FAQPage";
+import "./styles/common.css";
+import "./styles/layout.css";
 
 const App = () => {
   return (
